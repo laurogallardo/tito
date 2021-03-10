@@ -1,0 +1,528 @@
+#EXTM3U
+#EXTINF:0,A+
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1_&f.m3u8
+#EXTINF:0, QUIERO TV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=3_&f.m3u8
+#EXTINF:0, CANAL 10
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=4_&f.m3u8
+#EXTINF:0, DW
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=5_&f.m3u8
+#EXTINF:0, TV MAS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=6_&f.m3u8
+#EXTINF:0, TELEMAX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=7_&f.m3u8
+#EXTINF:0, ADN40
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=15_&f.m3u8
+#EXTINF:0, MILENIO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=17_&f.m3u8
+#EXTINF:0, TELE UNO TV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=30_&f.m3u8
+#EXTINF:0, READY38
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=38_&f.m3u8
+#EXTINF:0, MICROVISION HD
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=39_&f.m3u8
+#EXTINF:0, PANAMERICANA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=46_&f.m3u8
+#EXTINF:0, RCN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=47_&f.m3u8
+#EXTINF:0, CANAL CLARO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=59_&f.m3u8
+#EXTINF:0, LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=72_&f.m3u8
+#EXTINF:0, CARACOL TV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=74_&f.m3u8
+#EXTINF:0, NFL NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=83_&f.m3u8
+#EXTINF:0, UNIVISION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=84_&f.m3u8
+#EXTINF:0, CINELATINO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=85_&f.m3u8
+#EXTINF:0, UNIMAS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=86_&f.m3u8
+#EXTINF:0, GALAVISION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=87_&f.m3u8
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=88_&f.m3u8
+#EXTINF:0, GARAGE TV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=91_&f.m3u8
+#EXTINF:0, WOWTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=94_&f.m3u8
+#EXTINF:0, MVSTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=130_&f.m3u8
+#EXTINF:0, IMAGENTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=130_&f.m3u8
+#EXTINF:0, ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=131_&f.m3u8
+#EXTINF:0, NU9VE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=132_&f.m3u8
+#EXTINF:0, AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=133_&f.m3u8
+#EXTINF:0, CANAL 5
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=134_&f.m3u8
+#EXTINF:0, LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=135_&f.m3u8
+#EXTINF:0, DISTRITO COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=138_&f.m3u8
+#EXTINF:0, AXN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=140_&f.m3u8
+#EXTINF:0, FOX CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=141_&f.m3u8
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=142_&f.m3u8
+#EXTINF:0, SONY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=143_&f.m3u8
+#EXTINF:0, UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=144_&f.m3u8
+#EXTINF:0, WARNER
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=146_&f.m3u8
+#EXTINF:0, A&E
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=147_&f.m3u8
+#EXTINF:0, MTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=154_&f.m3u8
+#EXTINF:0, EUROPA EUROPA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=156_&f.m3u8
+#EXTINF:0, HM HD TV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=160_&f.m3u8
+#EXTINF:0, DPELICULA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=163_&f.m3u8
+#EXTINF:0, FOX MOVIES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=167_&f.m3u8
+#EXTINF:0, FOX ACTION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=170_&f.m3u8
+#EXTINF:0, FXM
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=177_&f.m3u8
+#EXTINF:0, DPELICULA+
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=179_&f.m3u8
+#EXTINF:0, SPACE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=180_&f.m3u8
+#EXTINF:0, TNT
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=181_&f.m3u8
+#EXTINF:0, AZTECA CINEMA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=184_&f.m3u8
+#EXTINF:0, DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=186_&f.m3u8
+#EXTINF:0, FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=188_&f.m3u8
+#EXTINF:0, MASCHIC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=190_&f.m3u8
+#EXTINF:0, H&H
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=199_&f.m3u8
+#EXTINF:0, HISTORY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=201_&f.m3u8
+#EXTINF:0, MTV HITS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=215_&f.m3u8
+#EXTINF:0, VH1
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=216_&f.m3u8
+#EXTINF:0, HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=229_&f.m3u8
+#EXTINF:0, FOX COMEDY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=234_&f.m3u8
+#EXTINF:0, GRUPO FORMULA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=236_&f.m3u8
+#EXTINF:0, ONCE NIÑOS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=242_&f.m3u8
+#EXTINF:0, CNN ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=245_&f.m3u8
+#EXTINF:0, TVC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=246_&f.m3u8
+#EXTINF:0, FOROTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=248_&f.m3u8
+#EXTINF:0, STARTVE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=249_&f.m3u8
+#EXTINF:0, A3SERIES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=250_&f.m3u8
+#EXTINF:0, GOLF USA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=253_&f.m3u8
+#EXTINF:0, CLARO SPORTS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=254_&f.m3u8
+#EXTINF:0, FOX SPORTS 2 MX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=260_&f.m3u8
+#EXTINF:0, FOX SPORTS 3 MX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=261_&f.m3u8
+#EXTINF:0, TVC DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=264_&f.m3u8
+#EXTINF:0, ADRENALINA SPORTS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=265_&f.m3u8
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=267_&f.m3u8
+#EXTINF:0, A&E
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1476_&f.m3u8
+#EXTINF:0, AMC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1477_&f.m3u8
+#EXTINF:0, BABYTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1480_&f.m3u8
+#EXTINF:0, BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1481_&f.m3u8
+#EXTINF:0, CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1482_&f.m3u8
+#EXTINF:0, COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1483_&f.m3u8
+#EXTINF:0, DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1486_&f.m3u8
+#EXTINF:0, DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1488_&f.m3u8
+#EXTINF:0, DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1489_&f.m3u8
+#EXTINF:0, DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1490_&f.m3u8
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1492_&f.m3u8
+#EXTINF:0, FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1493_&f.m3u8
+#EXTINF:0, FOX SERIES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1495_&f.m3u8
+#EXTINF:0, FOX ACTION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1496_&f.m3u8
+#EXTINF:0, FOX CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1498_&f.m3u8
+#EXTINF:0, FOX FAMILY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1500_&f.m3u8
+#EXTINF:0, NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1507_&f.m3u8
+#EXTINF:0, NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1508_&f.m3u8
+#EXTINF:0, TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1510_&f.m3u8
+#EXTINF:0, DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1511_&f.m3u8
+#EXTINF:0, DISCOVER ID
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1512_&f.m3u8
+#EXTINF:0, ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1513_&f.m3u8
+#EXTINF:0, CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1518_&f.m3u8
+#EXTINF:0, DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1520_&f.m3u8
+#EXTINF:0, E!
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1524_&f.m3u8
+#EXTINF:0, LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1528_&f.m3u8
+#EXTINF:0, H2
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1531_&f.m3u8
+#EXTINF:0, I SAT
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1533_&f.m3u8
+#EXTINF:0, HBO MUNDI
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1535_&f.m3u8
+#EXTINF:0, HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1536_&f.m3u8
+#EXTINF:0, MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1537_&f.m3u8
+#EXTINF:0, NICK JR
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1540_&f.m3u8
+#EXTINF:0, PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1543_&f.m3u8
+#EXTINF:0, SYFY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1547_&f.m3u8
+#EXTINF:0, TBS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1548_&f.m3u8
+#EXTINF:0, DISCOVERY THEATHER
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1551_&f.m3u8
+#EXTINF:0, HBO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1555_&f.m3u8
+#EXTINF:0, HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1556_&f.m3u8
+#EXTINF:0, HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1557_&f.m3u8
+#EXTINF:0, FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1559_&f.m3u8
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1563_&f.m3u8
+#EXTINF:0, NAT GEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1570_&f.m3u8
+#EXTINF:0, NICK
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1575_&f.m3u8
+#EXTINF:0, GALAVISION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1604_&f.m3u8
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1605_&f.m3u8
+#EXTINF:0, GALAVISION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1606_&f.m3u8
+#EXTINF:0, RCNOVELAS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1611_&f.m3u8
+#EXTINF:0, CLARO MUSICA TV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1612_&f.m3u8
+#EXTINF:0, TELEHIT
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1613_&f.m3u8
+#EXTINF:0, DHE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1614_&f.m3u8
+#EXTINF:0, DIRECTV
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1625_&f.m3u8
+#EXTINF:0, FOX CINEMA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1626_&f.m3u8
+#EXTINF:0, CLARO CINEMA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1637_&f.m3u8
+#EXTINF:0, CONCERT
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1639_&f.m3u8
+#EXTINF:0, CLARO MUSICA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1650_&f.m3u8
+#EXTINF:0, WIN SPORTS +
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1670_&f.m3u8
+#EXTINF:0, PASIONES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1671_&f.m3u8
+#EXTINF:0, AMC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1672_&f.m3u8
+#EXTINF:0, ANTENA 3
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1674_&f.m3u8
+#EXTINF:0, AXN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1675_&f.m3u8
+#EXTINF:0, DISCOVERY CIVILIZATION
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1689_&f.m3u8
+#EXTINF:0, E!
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1699_&f.m3u8
+#EXTINF:0, GLITZ
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1702_&f.m3u8
+#EXTINF:0, GOLDEN +
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1703_&f.m3u8
+#EXTINF:0, GOLDEN PREMIER
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1704_&f.m3u8
+#EXTINF:0, TEEN NICK
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1715_&f.m3u8
+#EXTINF:0, STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1720_&f.m3u8
+#EXTINF:0, TCM
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1724_&f.m3u8
+#EXTINF:0, TOONCAST
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1728_&f.m3u8
+#EXTINF:0, NICK MUSIC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1738_&f.m3u8
+#EXTINF:0, UNIMAS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1746_&f.m3u8
+#EXTINF:0, TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1751_&f.m3u8
+#EXTINF:0, BANDAMAX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1757_&f.m3u8
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1782_&f.m3u8
+#EXTINF:0, ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1786_&f.m3u8
+#EXTINF:0, ESPN2
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1794_&f.m3u8
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1796_&f.m3u8
+#EXTINF:0, TELERIMTO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1802_&f.m3u8
+#EXTINF:0, VIDEOROLA
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1808_&f.m3u8
+#EXTINF:0, GOURMET
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1811_&f.m3u8
+#EXTINF:0, HISTORY
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1812_&f.m3u8
+#EXTINF:0, CANAL ONCE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1817_&f.m3u8
+#EXTINF:0, ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1834_&f.m3u8
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1835_&f.m3u8
+#EXTINF:0, ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1836_&f.m3u8
+#EXTINF:0, ESPN DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1837_&f.m3u8
+#EXTINF:0, WINS PORTS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1843_&f.m3u8
+#EXTINF:0, BEIN SPORTS Ñ
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1844_&f.m3u8
+#EXTINF:0, NBC UNIVERSO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1849_&f.m3u8
+#EXTINF:0, FOX SPORTS 2 SUR
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1850_&f.m3u8
+#EXTINF:0, FOX SPORTS SUR
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1851_&f.m3u8
+#EXTINF:0, HBO POP
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1855_&f.m3u8
+#EXTINF:0, MILENIO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1859_&f.m3u8
+#EXTINF:0, CANAL 6
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1862_&f.m3u8
+#EXTINF:0, LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1865_&f.m3u8
+#EXTINF:0, CINE LATINO
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1866_&f.m3u8
+#EXTINF:0, MC
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1867_&f.m3u8
+#EXTINF:0, BEIN SPORTS
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1868_&f.m3u8
+#EXTINF:0, ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1869_&f.m3u8
+#EXTINF:0, UNICABLE
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1871_&f.m3u8
+#EXTINF:0, FOX SPORTS MX
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1873_&f.m3u8
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1876_&f.m3u8
+#EXTINF:0, AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1877_&f.m3u8
